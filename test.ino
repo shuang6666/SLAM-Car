@@ -4,4 +4,5 @@ void setup(){
 
 void loop(){
     digitalWrite(0,LOW);
+    digitalWrite(0,HIGH);
 }
