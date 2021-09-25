@@ -1,6 +1,5 @@
 {
     "board": "arduino:avr:mega",
     "port": "COM3",
-    "sketch": "test.ino",
-    "configuration": "cpu=atmega2560"
+    "sketch": "test.ino"
 }
